@@ -1,0 +1,28 @@
+.cont{
+  display: inline-flex;
+  text-align: center;
+}
+.header {
+  height: 280px;
+  padding: 30px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.site-image {
+  margin-right: 20px;
+}
+
+.site-slogan {
+  width: 450px;
+  margin-left: 50px;
+  margin-top: 60px;
+  text-align: center;
+
+}
+
+h2 {
+  font-size: 35px;
+}
