@@ -1,0 +1,9 @@
+<h2>{{ currentQuestion }}</h2>
+<form (submit)="submitAnswer()">
+  <label>
+    Answer:
+    <input [(ngModel)]="answer" name="answer" required>
+  </label>
+  <button type="submit">Next question</button>
+  <p>{{ errorMessage }}</p>
+</form>

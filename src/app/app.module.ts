@@ -6,8 +6,8 @@ import {ContainerComponent} from "./Container/container.component";
 import { NavigationComponent } from './navigation/navigation.component';
 import { HeaderComponent } from './header/header.component';
 import { NotificationComponent } from './notification/notification.component';
-import { QuestionWindowComponent } from './question-window/question-window.component';
-
+import { QuestionsComponent } from './questions/questions.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -16,10 +16,11 @@ import { QuestionWindowComponent } from './question-window/question-window.compo
     NavigationComponent,
     HeaderComponent,
     NotificationComponent,
-    QuestionWindowComponent
+    QuestionsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
