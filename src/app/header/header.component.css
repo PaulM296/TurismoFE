@@ -1,6 +1,6 @@
-.cont{
-  display: inline-flex;
-  text-align: center;
+.wrapper{
+  display: flex;
+  background-color: white;
 }
 .header {
   height: 280px;
@@ -18,11 +18,11 @@
 .site-slogan {
   width: 450px;
   margin-left: 50px;
-  margin-top: 60px;
+  margin-top: 50px;
   text-align: center;
 
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 40px;
 }
