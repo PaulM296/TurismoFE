@@ -6,6 +6,7 @@ import {ContainerComponent} from "./Container/container.component";
 import { NavigationComponent } from './navigation/navigation.component';
 import { HeaderComponent } from './header/header.component';
 import { NotificationComponent } from './notification/notification.component';
+import { QuestionWindowComponent } from './question-window/question-window.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { NotificationComponent } from './notification/notification.component';
     ContainerComponent,
     NavigationComponent,
     HeaderComponent,
-    NotificationComponent
+    NotificationComponent,
+    QuestionWindowComponent
   ],
   imports: [
     BrowserModule
