@@ -8,6 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { NotificationComponent } from './notification/notification.component';
 import { QuestionsComponent } from './questions/questions.component';
 import { FormsModule } from '@angular/forms';
+import {HttpClient, HttpClientModule} from "@angular/common/http"
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { FormsModule } from '@angular/forms';
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
