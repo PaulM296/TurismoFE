@@ -1,8 +1,8 @@
-<h2>{{ currentQuestion }}</h2>
 <form (submit)="submitAnswer()">
+  <h2>{{ currentQuestion }}</h2>
   <label>
     Answer:
-    <input [(ngModel)]="answer" name="answer" required>
+    <input [(ngModel)]="answer" name="answer" [required]="currentQuestionIndex !== 2 && currentQuestionIndex !== 7 && currentQuestionIndex !== 9" type="{{ currentQuestionIndex === 2 || currentQuestionIndex === 7 || currentQuestionIndex === 9 ? 'number' : 'text' }}">
   </label>
   <button type="submit">Next question</button>
   <p>{{ errorMessage }}</p>

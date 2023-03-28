@@ -1,7 +1,7 @@
 {
 	"locatii": [
 		{
-			"taraOrigine": "Franta",
+      "taraOrigine": "Franta",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -11,7 +11,7 @@
 			"obiectiveTuristice": 9,
 			"cazare": "hotel",
 			"buget": 3568,
-			"numeDestinatie": "Hotel d'Espagne - Paris",
+			"numeDestinatie": "Hotel d'Espagne - Paris"
 		},
 		{
 			"taraOrigine": "Franta",
@@ -24,7 +24,7 @@
 			"obiectiveTuristice": 9,
 			"cazare": "hotel",
 			"buget": 1782,
-			"numeDestinatie": "Hotel de la Tour - Paris",
+			"numeDestinatie": "Hotel de la Tour - Paris"
 		},
 		{
 			"taraOrigine": "Franta",
@@ -37,7 +37,7 @@
 			"obiectiveTuristice": 9,
 			"cazare": "hotel",
 			"buget": 636,
-			"numeDestinatie": "UCPA Sport Station hostel - Paris",
+			"numeDestinatie": "UCPA Sport Station hostel - Paris"
 		},
 		{
 			"taraOrigine": "Germania",
@@ -47,10 +47,10 @@
 			"zona": "urban",
 			"nrPersoane": "grup",
 			"activitati": "non-adrenalina",
-			"obiectiveTuristice": "6",
+			"obiectiveTuristice": 6,
 			"cazare": "hotel",
 			"buget": 586,
-			"numeDestinatie": "Hotel Bayernland - Munchen",
+			"numeDestinatie": "Hotel Bayernland - Munchen"
 		},
 		{
 			"taraOrigine": "Germania",
@@ -60,10 +60,10 @@
 			"zona": "urban",
 			"nrPersoane": "singur",
 			"activitati": "non-adrenalina",
-			"obiectiveTuristice": "6",
+			"obiectiveTuristice": 6,
 			"cazare": "hotel",
 			"buget": 2580,
-			"numeDestinatie": "Hotel Am Moosfeld - Munchen",
+			"numeDestinatie": "Hotel Am Moosfeld - Munchen"
 		},
 		{
 			"taraOrigine": "Germania",
@@ -73,10 +73,10 @@
 			"zona": "urban",
 			"nrPersoane": "grup",
 			"activitati": "non-adrenalina",
-			"obiectiveTuristice": "6",
+			"obiectiveTuristice": 6,
 			"cazare": "hotel",
 			"buget": 2340,
-			"numeDestinatie": "Hotel Am Moosfeld - Munchen",
+			"numeDestinatie": "Hotel Am Moosfeld - Munchen"
 		},
 		{
 			"taraOrigine": "Germania",
@@ -86,10 +86,10 @@
 			"zona": "urban",
 			"nrPersoane": "grup",
 			"activitati": "adrenalina",
-			"obiectiveTuristice": "1",
+			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 1406,
-			"numeDestinatie": "Hampton By Hilton Munich City North - Munchen, Parc de distractii Lego Ninjago The Ride",
+			"numeDestinatie": "Hampton By Hilton Munich City North - Munchen, Parc de distractii Lego Ninjago The Ride"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -102,7 +102,7 @@
 			"obiectiveTuristice": 8,
 			"cazare": "locuinta",
 			"buget": 1905,
-			"numeDestinatie": "Apartamet New Desing St.Peter - Vatican, Roma",
+			"numeDestinatie": "Apartamet New Desing St.Peter - Vatican, Roma"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -115,7 +115,7 @@
 			"obiectiveTuristice": 3,
 			"cazare": "locuinta",
 			"buget": 3971,
-			"numeDestinatie": "Apartamet Sonder Trastevere - Roma",
+			"numeDestinatie": "Apartamet Sonder Trastevere - Roma"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -128,7 +128,7 @@
 			"obiectiveTuristice": 5,
 			"cazare": "hotel",
 			"buget": 1512,
-			"numeDestinatie": "Roma 2B - Roma",
+			"numeDestinatie": "Roma 2B - Roma"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -141,7 +141,7 @@
 			"obiectiveTuristice": 3,
 			"cazare": "locuinta",
 			"buget": 1231,
-			"numeDestinatie": "La Primavera - Roma",
+			"numeDestinatie": "La Primavera - Roma"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -154,7 +154,7 @@
 			"obiectiveTuristice": 3,
 			"cazare": "locuinta",
 			"buget": 4036,
-			"numeDestinatie": "Sophie's Choice Apartamet - Roma",
+			"numeDestinatie": "Sophie's Choice Apartamet - Roma"
 		},
 		{
 			"taraOrigine": "Italia",
@@ -167,7 +167,7 @@
 			"obiectiveTuristice": 3,
 			"cazare": "hotel",
 			"buget": 2650,
-			"numeDestinatie": "Colosseum Palace Star - Roma",
+			"numeDestinatie": "Colosseum Palace Star - Roma"
 		},
 		{
 			"taraOrigine": "Spania",
@@ -180,7 +180,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 3393,
-			"numeDestinatie": "Gran Hotel La Florida G.L Monumento - Barcelona , Tibidabo - parc de distractii",
+			"numeDestinatie": "Gran Hotel La Florida G.L Monumento - Barcelona , Tibidabo - parc de distractii"
 		},
 		{
 			"taraOrigine": "Spania",
@@ -193,7 +193,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 5436,
-			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii",
+			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii"
 		},
 		{
 			"taraOrigine": "Spania",
@@ -205,8 +205,8 @@
 			"activitati": "adrenalina",
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
-			"buget": 906, 
-			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii",
+			"buget": 906,
+			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii"
 		},
 		{
 			"taraOrigine": "Spania",
@@ -218,8 +218,8 @@
 			"activitati": "adrenalina",
 			"obiectiveTuristice": 13,
 			"cazare": "hotel",
-			"buget": 1540, 
-			"numeDestinatie": "Hostel Central and Basic Universitat - Barcelona",
+			"buget": 1540,
+			"numeDestinatie": "Hostel Central and Basic Universitat - Barcelona"
 		},
 		{
 			"taraOrigine": "Spania",
@@ -231,8 +231,8 @@
 			"activitati": "non-adrenalina",
 			"obiectiveTuristice": 6,
 			"cazare": "hotel",
-			"buget": 1160, 
-			"numeDestinatie": "Zenit Borrell - Barcelona",
+			"buget": 1160,
+			"numeDestinatie": "Zenit Borrell - Barcelona"
 		},
 		{
 			"taraOrigine": "Norvegia",
@@ -245,7 +245,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "locuinta",
 			"buget": 776,
-			"numeDestinatie": "Kleines Haus am Fjord - Sor-Eidem",
+			"numeDestinatie": "Kleines Haus am Fjord - Sor-Eidem"
 		},
 		{
 			"taraOrigine": "Norvegia",
@@ -258,7 +258,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "locuinta",
 			"buget": 4935,
-			"numeDestinatie": "Tind seaside cabins- Tind",
+			"numeDestinatie": "Tind seaside cabins- Tind"
 		},
 		{
 			"taraOrigine": "Norvegia",
@@ -271,7 +271,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 4195,
-			"numeDestinatie": "Malangen Resort - Mestervik",
+			"numeDestinatie": "Malangen Resort - Mestervik"
 		},
 		{
 			"taraOrigine": "Norvegia",
@@ -284,7 +284,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 558,
-			"numeDestinatie": "Nordpå Fjellhotell AS - Haltdalen",
+			"numeDestinatie": "Nordpå Fjellhotell AS - Haltdalen"
 		},
 		{
 			"taraOrigine": "Norvegia",
@@ -297,21 +297,7 @@
 			"obiectiveTuristice": 1,
 			"cazare": "hotel",
 			"buget": 2515,
-			"numeDestinatie": "Radisson Blu Hotel Bodø - Bodø",
-		},
-		{
-			"taraOrigine": ,
-			"scop": ,
-			"perioada": ,
-			"climat": ,
-			"zona": ,
-			"culturaNoua": ,
-			"nrPersoane": ,
-			"activitati": ,
-			"obiectiveTuristice": ,
-			"cazare": ,
-			"buget": ,
-			"numeDestinatie": ,
-		},
+			"numeDestinatie": "Radisson Blu Hotel Bodø - Bodø"
+		}
 	]
 }
