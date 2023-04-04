@@ -2,7 +2,7 @@
   <h2>{{ currentQuestion }}</h2>
   <label>
     Answer:
-    <input [(ngModel)]="answer" name="answer" [required]="currentQuestionIndex !== 2 && currentQuestionIndex !== 7 && currentQuestionIndex !== 9" type="{{ currentQuestionIndex === 2 || currentQuestionIndex === 7 || currentQuestionIndex === 9 ? 'number' : 'text' }}">
+    <input [(ngModel)]="answer" name="answer" [required]="currentQuestionIndex !== 1 && currentQuestionIndex !== 6 && currentQuestionIndex !== 8" type="{{ currentQuestionIndex === 1 || currentQuestionIndex === 6 || currentQuestionIndex === 8 ? 'number' : 'text' }}">
   </label>
   <button type="submit">Next question</button>
   <p>{{ errorMessage }}</p>
